@@ -1,6 +1,10 @@
 team: KIA
 
+<<<<<<< HEAD
 manager: 김러러
+=======
+manager: 김라라
+>>>>>>> conflict-1
 
 members:
 - 양현종
