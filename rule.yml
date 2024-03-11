@@ -1,3 +1,5 @@
 -role: developer
 -manager: jongwon
--action: move
+-action: 
+- move
+- attack
